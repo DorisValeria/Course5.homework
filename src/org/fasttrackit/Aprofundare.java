@@ -30,6 +30,7 @@ public class Aprofundare {
             if(i %k==0){
                divizori[index]=i;
                 index++;
+                System.out.println("Modificare din git");
             }
         }
     }
