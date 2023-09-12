@@ -62,6 +62,7 @@ public class Tema1 {
                // 0 ,1,2=cele 3 pozitii ne intereseaza doar cel de pe lungimea 1 sa fie cel abreviat
                 // Maria Clara Popescu= maria e componente[0]+ clara e componente[1] dupa care folosim functia charAt deoarece vrem sa printam din numele Clara doar litera C si Popescu e componente[2]
                 System.out.println(componente[0] + componente[1].charAt(0)) + " . " + " " + componente[2]);
+                System.out.println("Modificare din git");
             }
         }
    }
